@@ -1,9 +1,11 @@
 # All Airdrop Bots Telegram Python
 ------------------
+:pushpin: :bomb: Let's follow the "" "Coin Name" Update File "" file. I will update it constantly.:bangbang::bangbang:
+
 [Python Bot List](https://github.com/F0Rextasy/All-Airdrop-Bots-Telegram-Python)
 [Javascript Bot List](https://github.com/F0Rextasy/All-Airdrop-Bots-Telegram-Javascript)
 -----------
-# README.md file is inside all Bot folders. Please follow the Guide!!
+:white_check_mark:# README.md file is inside all Bot folders. Please follow the Guide!!
 --------
 # [BybitCoinsweeper Join](https://t.me/BybitCoinsweeper_Bot?start=referredBy=1201989442)
 -------------
