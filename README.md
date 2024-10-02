@@ -32,8 +32,8 @@ Binding a proxy to a session/query_id	| ✅
 [How to add query id](https://github.com/F0Rextasy/All-Airdrop-Bots-Telegram-Javascript/issues/2)
 
 ## Check For Updates
-| All Airdrop Bots Join	| Latest Update | 
-| :----: | :---: | ---: |
+| All Airdrop Bots Join	| Latest Update | Update File | 
+| :----: | :---: | :---: |
 | [BybitCoinsweeper Join](https://t.me/BybitCoinsweeper_Bot?start=referredBy=1201989442) |  30 Sep 2024 / 03:50 |
 | [DotCoin Join](https://t.me/dotcoin_bot?start=r_1201989442) | 30 Sep 2024 / 03:50 |
 | [Major Join](https://t.me/major/start?startapp=1201989442) | 30 Sep 2024 / 03:50 |
