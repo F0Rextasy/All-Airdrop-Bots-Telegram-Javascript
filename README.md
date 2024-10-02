@@ -33,7 +33,7 @@ Binding a proxy to a session/query_id	| ✅
 
 ## Check For Updates
 | All Airdrop Bots Join	| Latest Update | 
-| :----: | :---: |
+| :----: | :---: | ---: |
 | [BybitCoinsweeper Join](https://t.me/BybitCoinsweeper_Bot?start=referredBy=1201989442) |  30 Sep 2024 / 03:50 |
 | [DotCoin Join](https://t.me/dotcoin_bot?start=r_1201989442) | 30 Sep 2024 / 03:50 |
 | [Major Join](https://t.me/major/start?startapp=1201989442) | 30 Sep 2024 / 03:50 |
