@@ -39,7 +39,7 @@ Binding a proxy to a session/query_id	| ✅
 | [Major Join](https://t.me/major/start?startapp=1201989442) | 30 Sep 2024 / 03:50 |
 | [MeMeFi Join](https://t.me/memefi_coin_bot?start=r_e1d3c9b582)| 30 Sep 2024 / 03:50 |
 | [Binance Moonbix Join](https://t.me/Binance_Moonbix_bot/start?startapp=ref_1201989442&startApp=ref_1201989442) | 30 Sep 2024 / 03:50 |
-| [NotPixel Join](https://t.me/notpixel/app?startapp=f1201989442_s612559) | 30 Sep 2024 / 03:50 |
+| [NotPixel Join](https://t.me/notpixel/app?startapp=f1201989442_s612559) | 02 Oct 2024 / 18:35 🕡 | [NotPixel Update v1](https://github.com/F0Rextasy/All-Airdrop-Bots-Telegram-Javascript/blob/main/NotPixel%20Update%20v1)
 | [TimeFarm Join](https://t.me/TimeFarmCryptoBot?start=4AJVpo15fnH1DLt1) | 30 Sep 2024 / 03:50 |
 | [Vertus Join](https://t.me/vertus_app_bot/app?startapp=1201989442) | 30 Sep 2024 / 03:50 |
 | [Boinkers Join](https://t.me/boinker_bot/boinkapp?startapp=boink1201989442) | 30 Sep 2024 / 03:50 |
